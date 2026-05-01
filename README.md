@@ -23,7 +23,8 @@ Combines CNN-LSTM deep learning with Physics-Informed Neural Networks (PINN).
 - Vectorised grid filling (no iterrows)
 
 ### Phase 2 — Urban Heat Island Analysis
-- Defined urban centers: Delhi, Mumbai, Kolkata
+- Defined urban centers for UHI Intensity: Delhi, Mumbai, Kolkata
+- LST analysis available for all cities in the region
 - Created urban/rural pixel masks (radius = 0.5°)
 - Computed **UHI Intensity** = mean(urban LST) − mean(rural LST)
 - Hotspot classification:
