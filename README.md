@@ -8,7 +8,7 @@ Combines CNN-LSTM deep learning with Physics-Informed Neural Networks (PINN).
 ## 📂 Dataset
 - **Source:** MODIS MOD11A1 Land Surface Temperature (LST)
 - **Coverage:** India (Lat: 20°–30°N, Lon: 72°–84°E)
-- **Cities:** Delhi, Mumbai, Kolkata
+- **Cities Covered:** Ghaziabad, New Delhi, Noida, Agra, Jaipur, Lucknow, Kanpur, Varanasi, Bhopal + more
 - **Period:** 2022–2025
 - **Resolution:** 150×150 pixel grid per day
 
